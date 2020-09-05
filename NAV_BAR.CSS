@@ -1,0 +1,86 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.topnavbar
+{
+   border: 3px black solid;
+   height: 200px;
+   width: 100%;
+}
+.insidebox
+{
+    border: 3px black solid;
+    height: 45px;
+    margin: 0px;
+    border-top:none;
+}
+.logo
+{
+    position: relative;
+    margin-left: 20px;
+    top: 15px;
+}
+.cart
+{
+    position: relative;
+    left: 1020px;
+    top: -10px;
+    font-size: 25px;
+    background-color: white;
+    border: 2px solid;
+    width: 90px;
+    border-radius: 10px;
+}
+.login
+{
+    position: relative;
+    left: 1035px;
+    top: -10px;
+    font-size: 25px;
+    background-color: white;
+    border: 2px solid;
+    width: 90px;
+    border-radius: 10px;
+    
+}
+.info
+{
+    border: 3px black solid;
+    width: 1100px;
+    height: 40px;
+    position: relative;
+    left: 50px;
+    top:20px;
+}
+.home
+{
+    font-size:25px;
+    padding-left: 30px;
+    text-decoration: none;
+}
+.services
+{
+    font-size:25px;
+    padding-left: 160px;
+    text-decoration: none;
+}
+.products
+{
+    font-size:25px;
+    padding-left:160px;
+    text-decoration: none;
+}
+.about
+{
+    font-size: 25px;
+    padding-left:160px;
+    text-decoration: none;
+}
+.contact
+{
+    font-size: 25px;
+    padding-left:160px;
+    text-decoration: none;
+}
